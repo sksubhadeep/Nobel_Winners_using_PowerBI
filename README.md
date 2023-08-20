@@ -1,4 +1,4 @@
-I have performed a series of data cleaning and analysis steps on the Nobel_Awardees data using Microsoft SQL Management Studio. Here's a structured summary of my tasks:
+I have performed a series of data cleaning and analysis steps on the Nobel_Awardees data using Microsoft SQL Management Studio. Here's a structured summary of my tasks: 
 
 ### Data Cleaning Steps:
 
