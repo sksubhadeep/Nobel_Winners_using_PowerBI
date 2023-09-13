@@ -53,7 +53,7 @@ I have performed a series of data cleaning and analysis steps on the Nobel_Award
      - `-S<server_instance>`: The server instance where the database is hosted.
      - `-c`: Specifies character data format.
      - `-t","`: Specifies the field terminator as a comma.
-     - `-T`: Uses Windows authentication for the connection.
+     - `-T`: Uses Windows authentication for the connection. 
 
 
 Upon completion of these steps, the cleaned and analyzed data will be saved in the specified file destination.
